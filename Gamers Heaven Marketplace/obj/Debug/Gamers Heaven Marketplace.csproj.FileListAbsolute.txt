@@ -1,0 +1,21 @@
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\bin\Debug\Gamers Heaven Marketplace.exe.config
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers Heaven Marketplace.exe
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers Heaven Marketplace.pdb
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\bin\Debug\Gamers Heaven Marketplace.exe
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\bin\Debug\Gamers Heaven Marketplace.pdb
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers Heaven Marketplace.csprojResolveAssemblyReference.cache
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.accountMain.resources
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.loginForm.resources
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.productControl.resources
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.Properties.Resources.resources
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.registerForm.resources
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers Heaven Marketplace.csproj.GenerateResource.Cache
+C:\Users\Anmol Brar\Documents\Visual Studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.orderConfirmation.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.favProduct.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.favorites.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.passwordReset.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.viewOrderDetails.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.orders.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.keyReveal.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.accountControl.resources
+C:\Users\Anmol Brar\documents\visual studio 2015\Projects\Gamers Heaven Marketplace\Gamers Heaven Marketplace\obj\Debug\Gamers_Heaven_Marketplace.AccountDetails.resources
